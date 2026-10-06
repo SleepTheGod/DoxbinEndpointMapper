@@ -1,6 +1,8 @@
 # Doxbin.com Endpoint Mapper for the Chrome DevTools Console
 
 # Usage
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/65edfbde-4cc1-47ec-9c40-5966578d6fc9" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0a44c4b1-5959-48f7-8d48-89b03bb4463b" />
 
 1. go to doxbin.com
 2. press f12 or right click and inspect element then go to console
